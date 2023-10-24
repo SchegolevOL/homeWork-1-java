@@ -43,8 +43,8 @@ public class task1 {
             tmp %= 12;
         }
         String yearJapen = years[tmp - 1];
-        System.out.println(yearJapen);
-String zodiac="фф";
+
+String zodiac="";
         if (month.equalsIgnoreCase("январь")){
             if (dey>=1&&dey<20) zodiac="козерог";
             if (dey>=20&&dey<31) zodiac="водолей";
@@ -82,7 +82,7 @@ String zodiac="фф";
             if (dey>=1&&dey<21) zodiac="стрелец";
             if (dey>=20&&dey<30) zodiac="козерог";
         }
-        System.out.println(zodiac);
+        System.out.println("Знак : "+zodiac+" Год: "+yearJapen);
 
 
 

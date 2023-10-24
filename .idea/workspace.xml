@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5910bfea-9033-48f1-8dbe-c7c32a9699a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Package1/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Package1/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Package1/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Package1/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Package1/task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeWork-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Package1/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Package1/task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,8 +81,17 @@
       <workItem from="1698049527524" duration="6308000" />
       <workItem from="1698134697369" duration="835000" />
       <workItem from="1698135548722" duration="2987000" />
-      <workItem from="1698140532013" duration="3765000" />
+      <workItem from="1698140532013" duration="4133000" />
     </task>
+    <task id="LOCAL-00001" summary="finish">
+      <option name="closed" value="true" />
+      <created>1698146851391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698146851391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +107,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
