@@ -21,14 +21,14 @@ public class task3 {
 
             do{
                 tmp1++;
-                tmp2 /= 10;
+                tmp2 /= x;
             }while (tmp2 > 0);
             tmp2 = i;
             for (int j=0; j < tmp1; j++){
 
                 arr[j] = tmp2 % x;
 
-                tmp2 /=10;
+                tmp2 /=x;
             }
             if (Math.pow(arr[0], tmp1) + Math.pow(arr[1], tmp1) + Math.pow(arr[2], tmp1) + Math.pow(arr[3], tmp1) + Math.pow(arr[4], tmp1) + Math.pow(arr[5], tmp1) + Math.pow(arr[6], tmp1) + Math.pow(arr[7], tmp1) == i){
                 System.out.println(i);
